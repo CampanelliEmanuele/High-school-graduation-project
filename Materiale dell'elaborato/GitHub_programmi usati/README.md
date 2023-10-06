@@ -1,1 +1,0 @@
-Questa cartella contiene i vari programmi di ogni modulo facente parte del progetto completo.
