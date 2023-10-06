@@ -1,3 +1,5 @@
+# Table of contents
+
 - [High-school-graduation-project](#high-school-graduation-project)
   - [Nucleo del progetto](#nucleo-del-progetto)
   - [Documentazione del progetto](#documentazione-del-progetto)
