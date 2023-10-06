@@ -1,6 +1,11 @@
 - [High-school-graduation-project](#high-school-graduation-project)
   - [Nucleo del progetto](#nucleo-del-progetto)
-  - [Schemi](#schemi)
+  - [Documentazione del progetto](#documentazione-del-progetto)
+    - [Presentazione dell'elaborato](#presentazione-dellelaborato)
+    - [Relazione dell'elaborato](#relazione-dellelaborato)
+  - [Codice del progetto](#codice-del-progetto)
+    - [Cartella coi codici](#cartella-coi-codici)
+  - [Schemi del progetto](#schemi-del-progetto)
     - [Sbrogliato finale](#sbrogliato-finale)
     - [Schema elettrico finale](#schema-elettrico-finale)
     - [Diagramma degli stati](#diagramma-degli-stati)
@@ -16,7 +21,17 @@
 Il progetto portato all'esame di maturità consisteva in un prototipo di una centralina per il controllo di un motore DC con l'aggiunta di eventuali modifiche e integrazioni.
 Per ulteriori approfondimenti consiglio di visionare i vari PDF, uno dei quali contiene dei link, oramai non più funzionanti, di immagini e schemi ma presenti (e raggiungibili) nelle varie cartelle.
 
-## Schemi
+## Documentazione del progetto
+
+#### [Presentazione dell'elaborato](./PDFs/Presentazione-elaborato.pdf)
+
+#### [Relazione dell'elaborato](./PDFs/Relazione-elaborato.pdf)
+
+## Codice del progetto
+
+#### [Cartella coi codici](./Materiale-dell-elaborato/Programma-centralina/)
+
+## Schemi del progetto
 
 ### Sbrogliato finale
 
